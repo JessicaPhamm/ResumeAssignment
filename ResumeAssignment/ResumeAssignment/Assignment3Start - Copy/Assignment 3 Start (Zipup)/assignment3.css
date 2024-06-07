@@ -1,0 +1,22 @@
+h1 {
+    color: #29312F;
+    font-family: tahoma;
+    font-weight: bold;
+    border-bottom-style: dotted;
+}
+h2{
+    color: #900C3F;
+    font-family: Lucida Console, Monospace;
+}
+h3{
+    color: #581845;
+    font-family: Lucida Console, Monospace;
+}
+p{
+    font-family: andale mono, monospace;
+}
+
+footer{
+    background-color: lightblue;
+    border-style: inset;
+}
